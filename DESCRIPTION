@@ -1,6 +1,6 @@
 Package: Protein2Tissue
 Title: An R package for tissue expression analysis and gene set enrichment
-Version: 0.99.5
+Version: 0.99.6
 Authors@R: c(
     person(given   = "Chaoran",
            family  = "Yang",
@@ -32,6 +32,7 @@ Imports:
     AnnotationDbi,
     org.Hs.eg.db,
     methods,
+    utils,
     Exact
 Suggests: 
     testthat (>= 3.0.0),

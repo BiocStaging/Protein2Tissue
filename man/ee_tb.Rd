@@ -13,11 +13,44 @@ A data frame with \code{n} rows and the following columns:
 \item{Uniprot}{UNIPROT ID}
 \item{Is_secreted}{Whether the protein is a predicted secretory protein
 or not}
-\item{Tissue.specificity}{expression category, one of \code{"Tissue 
-  enhanced"},
-\code{"Group enriched"}, or \code{"Tissue enriched"}}
-
-\item{tissue}{tissue names}
+\item{Tissue.specificity}{Overall HPA tissue specificity category of the gene}
+\item{Adipose tissue}{Expression category in adipose tissue (NA if not classified)}
+\item{Breast}{Expression category in breast (NA if not classified)}
+\item{Seminal vesicle}{Expression category in seminal vesicle (NA if not classified)}
+\item{Parathyroid gland}{Expression category in parathyroid gland (NA if not classified)}
+\item{Bone marrow}{Expression category in bone marrow (NA if not classified)}
+\item{Lung}{Expression category in lung (NA if not classified)}
+\item{Lymphoid tissue}{Expression category in lymphoid tissue (NA if not classified)}
+\item{Liver}{Expression category in liver (NA if not classified)}
+\item{Testis}{Expression category in testis (NA if not classified)}
+\item{Brain}{Expression category in brain (NA if not classified)}
+\item{Esophagus}{Expression category in esophagus (NA if not classified)}
+\item{Gallbladder}{Expression category in gallbladder (NA if not classified)}
+\item{Intestine}{Expression category in intestine (NA if not classified)}
+\item{Pancreas}{Expression category in pancreas (NA if not classified)}
+\item{Ovary}{Expression category in ovary (NA if not classified)}
+\item{Kidney}{Expression category in kidney (NA if not classified)}
+\item{Placenta}{Expression category in placenta (NA if not classified)}
+\item{Cervix}{Expression category in cervix (NA if not classified)}
+\item{Skin}{Expression category in skin (NA if not classified)}
+\item{Endometrium}{Expression category in endometrium (NA if not classified)}
+\item{Skeletal muscle}{Expression category in skeletal muscle (NA if not classified)}
+\item{Retina}{Expression category in retina (NA if not classified)}
+\item{Tongue}{Expression category in tongue (NA if not classified)}
+\item{Heart muscle}{Expression category in heart muscle (NA if not classified)}
+\item{Choroid plexus}{Expression category in choroid plexus (NA if not classified)}
+\item{Fallopian tube}{Expression category in fallopian tube (NA if not classified)}
+\item{Epididymis}{Expression category in epididymis (NA if not classified)}
+\item{Salivary gland}{Expression category in salivary gland (NA if not classified)}
+\item{Vagina}{Expression category in vagina (NA if not classified)}
+\item{Smooth muscle}{Expression category in smooth muscle (NA if not classified)}
+\item{Adrenal gland}{Expression category in adrenal gland (NA if not classified)}
+\item{Blood vessel}{Expression category in blood vessel (NA if not classified)}
+\item{Pituitary gland}{Expression category in pituitary gland (NA if not classified)}
+\item{Stomach}{Expression category in stomach (NA if not classified)}
+\item{Urinary bladder}{Expression category in urinary bladder (NA if not classified)}
+\item{Thyroid gland}{Expression category in thyroid gland (NA if not classified)}
+\item{Prostate}{Expression category in prostate (NA if not classified)}
 }
 }
 \source{

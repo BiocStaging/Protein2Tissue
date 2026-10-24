@@ -81,5 +81,5 @@ result2
 
 }
 \seealso{
-\code{\link{enrichmentAnalysis}}, \code{\link{Enrichment-class}}
+\code{\link{Enrichment-class}}
 }

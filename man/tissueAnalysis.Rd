@@ -73,5 +73,5 @@ getBackground(result)
 
 }
 \seealso{
-\code{\link{enrichmentAnalysis}}, \code{\link{Enrichment-class}}
+\code{\link{Enrichment-class}}
 }

@@ -53,7 +53,7 @@
 #' getInput(result)
 #' getBackground(result)
 #'
-#' @seealso \code{\link{enrichmentAnalysis}}, \code{\link{Enrichment-class}}
+#' @seealso \code{\link{Enrichment-class}}
 #'
 #' @importFrom dplyr left_join
 #' @export
